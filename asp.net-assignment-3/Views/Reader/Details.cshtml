@@ -1,0 +1,20 @@
+﻿@model Reader
+@{
+    ViewData["title"] = "Reader";
+}
+<style>
+    h2{
+        font-weight:normal;
+    }
+</style>
+
+<h1>Title</h1>
+<h2>@Model.Name</h2>
+<h1>Email</h1>
+<h2>@Model.Email</h2>
+<h1>Phone Number</h1>
+<h2>@Model.PhoneNumber</h2>
+<h1>Address</h1>
+<h2>@Model.Address</h2>
+
+<a asp-asp-controller="Reader" asp-action="Index">Go Back</a>

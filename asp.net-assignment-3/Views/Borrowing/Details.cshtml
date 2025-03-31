@@ -1,0 +1,18 @@
+﻿@model Borrowing
+@{
+    ViewData["title"] = "Borrowing";
+}
+<style>
+    h2{
+        font-weight:normal;
+    }
+</style>
+
+<h1>Book Id</h1>
+<h2>@Model.BookId</h2>
+<h1>Borrower Id</h1>
+<h2>@Model.BorrowerId</h2>
+<h1>Is Returned?</h1>
+<h2>@Model.IsReturned</h2>
+
+<a asp-asp-controller="Borrowing" asp-action="Index">Go Back</a>

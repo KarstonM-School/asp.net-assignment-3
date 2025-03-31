@@ -1,0 +1,58 @@
+﻿@model List<Book>
+@{
+    ViewData["title"] = "All Books";
+}
+
+<style>
+    table 
+    {
+        border-collapse: collapse;
+        width: auto;
+    }
+
+    /* Only apply border to the first two columns */
+    th:nth-child(1),
+    th:nth-child(2),
+    td:nth-child(1),
+    td:nth-child(2) 
+    {
+        border: 1px solid black;
+    }
+
+    th, td 
+    {
+        padding: 4px;
+        text-align: left;
+    }
+
+    td a 
+    {
+        margin-right: 8px;
+    }
+</style>
+
+<h1>All Books:</h1>
+@if(Model != null && Model.Count() > 0)
+{
+    <table>
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Author</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var book in Model)
+            {
+                <tr>
+                    <td>@book.Name</td>
+                    <td>@book.Author</td>
+                    <td><a asp-controller="Book" asp-action="Details" asp-route-id="@book.Id">Details</a></td>
+                    <td><a asp-controller="Book" asp-action="Edit" asp-route-id="@book.Id">Edit</a></td>
+                    <td><a asp-controller="Book" asp-action="Delete" asp-route-id="@book.Id">Delete</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+<a asp-controller="Book" asp-action="Add">Add</a>
