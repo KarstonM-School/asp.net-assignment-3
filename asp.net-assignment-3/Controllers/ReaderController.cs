@@ -68,7 +68,7 @@ namespace asp.net_assignment_3.Controllers
         public IActionResult Delete(Reader reader)
         {
             ReaderRepo.DeleteReader(reader.Id);
-            return RedirectToAction("index");
+            return RedirectToAction("Index");
         }
     }
 }

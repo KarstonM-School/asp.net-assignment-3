@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\School\\Asp .Net\\Assignments\\Assignment 3\\asp.net-assignment-3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DCFD5913-E63D-402E-8AE3-5BF2B2930190}|asp.net-assignment-3\\asp.net-assignment-3.csproj|c:\\school\\asp .net\\assignments\\assignment 3\\asp.net-assignment-3\\asp.net-assignment-3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DCFD5913-E63D-402E-8AE3-5BF2B2930190}|asp.net-assignment-3\\asp.net-assignment-3.csproj|solutionrelative:asp.net-assignment-3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DCFD5913-E63D-402E-8AE3-5BF2B2930190}|asp.net-assignment-3\\asp.net-assignment-3.csproj|c:\\school\\asp .net\\assignments\\assignment 3\\asp.net-assignment-3\\asp.net-assignment-3\\controllers\\readercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCFD5913-E63D-402E-8AE3-5BF2B2930190}|asp.net-assignment-3\\asp.net-assignment-3.csproj|solutionrelative:asp.net-assignment-3\\controllers\\readercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\School\\Asp .Net\\Assignments\\Assignment 3\\asp.net-assignment-3\\asp.net-assignment-3\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "asp.net-assignment-3\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\School\\Asp .Net\\Assignments\\Assignment 3\\asp.net-assignment-3\\asp.net-assignment-3\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "asp.net-assignment-3\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-31T04:19:42.182Z",
+              "Title": "ReaderController.cs",
+              "DocumentMoniker": "C:\\School\\Asp .Net\\Assignments\\Assignment 3\\asp.net-assignment-3\\asp.net-assignment-3\\Controllers\\ReaderController.cs",
+              "RelativeDocumentMoniker": "asp.net-assignment-3\\Controllers\\ReaderController.cs",
+              "ToolTip": "C:\\School\\Asp .Net\\Assignments\\Assignment 3\\asp.net-assignment-3\\asp.net-assignment-3\\Controllers\\ReaderController.cs",
+              "RelativeToolTip": "asp.net-assignment-3\\Controllers\\ReaderController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwD0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T03:03:16.596Z",
               "EditorCaption": ""
             }
           ]

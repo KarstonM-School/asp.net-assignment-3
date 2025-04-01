@@ -29,3 +29,4 @@ C:\School\Asp .Net\Assignments\Assignment 3\asp.net-assignment-3\asp.net-assignm
 C:\School\Asp .Net\Assignments\Assignment 3\asp.net-assignment-3\asp.net-assignment-3\obj\Debug\net8.0\asp.net-assignment-3.pdb
 C:\School\Asp .Net\Assignments\Assignment 3\asp.net-assignment-3\asp.net-assignment-3\obj\Debug\net8.0\asp.net-assignment-3.genruntimeconfig.cache
 C:\School\Asp .Net\Assignments\Assignment 3\asp.net-assignment-3\asp.net-assignment-3\obj\Debug\net8.0\ref\asp.net-assignment-3.dll
+C:\School\Asp .Net\Assignments\Assignment 3\asp.net-assignment-3\asp.net-assignment-3\obj\Debug\net8.0\asp.net-assignment-3.sourcelink.json
